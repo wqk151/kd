@@ -230,7 +230,7 @@ freq_alert = false
 
 > 此功能需要访问Google
 
-⚠️ 目前处于实验阶段，请斟酌使用
+⚠️ 目前处于实验阶段，请斟酌使用。MacOS尚未测试，可能会报错
 
 单词前加speak参数，例如 `kd -s abandon`
 
@@ -241,7 +241,6 @@ freq_alert = false
     - mpv，可通过Chocolatey（ `choco install mpvio` ）或参考 https://mpv.io/installation/
     - ffmpeg，可通过Chocolatey（ `choco install ffmpeg` ）或Winget（ `winget install ffmpeg` ）安装
 
-**Mac/Linux** ：尚未测试，可能会报错
 
 ## 🎈 提升体验技巧
 
